@@ -1,6 +1,6 @@
 name = "XZ_jll"
 uuid = "ffd25f8a-64ca-5728-b0f7-c24cf3aae800"
-version = "5.2.4+1"
+version = "5.2.4+2"
 
 [deps]
 Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
