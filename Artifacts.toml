@@ -1,160 +1,160 @@
 [[XZ]]
 arch = "aarch64"
-git-tree-sha1 = "4ed6227ff66b34dcd65f011ad8b91bdf545ac4d8"
+git-tree-sha1 = "8497848586ec3c8e66c36a5b01fea1e48dd2f62f"
 os = "macos"
 
     [[XZ.download]]
-    sha256 = "0243bcd9e3b93af669b80b627a5fcab1e027a6c92491567eef5ebe232a969f3a"
-    url = "https://github.com/JuliaBinaryWrappers/XZ_jll.jl/releases/download/XZ-v5.8.1+0/XZ.v5.8.1.aarch64-apple-darwin.tar.gz"
+    sha256 = "84783718f66fef1b7b6ede10c394effe2bf2aad744f82dedf9bc6560c4b96cba"
+    url = "https://github.com/JuliaBinaryWrappers/XZ_jll.jl/releases/download/XZ-v5.8.2+0/XZ.v5.8.2.aarch64-apple-darwin.tar.gz"
 [[XZ]]
 arch = "aarch64"
-git-tree-sha1 = "e7ecc8fe749ddf6700e0a234a109879b5aa545ac"
+git-tree-sha1 = "d18c199555cc69f077efbde1072404309f7ea096"
 libc = "glibc"
 os = "linux"
 
     [[XZ.download]]
-    sha256 = "fbf0b60b65ee09dc7dbfae84001d2dc417ba52ea7cfb04947da24b81018cf690"
-    url = "https://github.com/JuliaBinaryWrappers/XZ_jll.jl/releases/download/XZ-v5.8.1+0/XZ.v5.8.1.aarch64-linux-gnu.tar.gz"
+    sha256 = "32d88e173b9adce1b30bbb00bdb532e74bcbd4caaea837010ff855347d991310"
+    url = "https://github.com/JuliaBinaryWrappers/XZ_jll.jl/releases/download/XZ-v5.8.2+0/XZ.v5.8.2.aarch64-linux-gnu.tar.gz"
 [[XZ]]
 arch = "aarch64"
-git-tree-sha1 = "7a9c919e37914413c0e12c9322c0f85cfb947b77"
+git-tree-sha1 = "10f3fb7edd53f794f9d818c06ca7798551045e70"
 libc = "musl"
 os = "linux"
 
     [[XZ.download]]
-    sha256 = "7486a4f2dbd65caef07a525967a4b300830b43ff899f9d380e9860b638ff7479"
-    url = "https://github.com/JuliaBinaryWrappers/XZ_jll.jl/releases/download/XZ-v5.8.1+0/XZ.v5.8.1.aarch64-linux-musl.tar.gz"
+    sha256 = "6aba68901ecfd04c4ba224d8a58172a9d423b6d7900ba809ead8fede4e62bb76"
+    url = "https://github.com/JuliaBinaryWrappers/XZ_jll.jl/releases/download/XZ-v5.8.2+0/XZ.v5.8.2.aarch64-linux-musl.tar.gz"
 [[XZ]]
 arch = "aarch64"
-git-tree-sha1 = "edd871395219afba2a1f8a9e26334bcee587cd8a"
+git-tree-sha1 = "7f17a96aa84a8ac19ca099338f23de7c1165508e"
 os = "freebsd"
 
     [[XZ.download]]
-    sha256 = "12139cae3f9a3bc5933204ea728e82c3c61df8b765fe5704448ca83cfc0f24fb"
-    url = "https://github.com/JuliaBinaryWrappers/XZ_jll.jl/releases/download/XZ-v5.8.1+0/XZ.v5.8.1.aarch64-unknown-freebsd.tar.gz"
+    sha256 = "50d5ce2e77c7918b8eb2ce80922a8d1f44936f5e0b7c8a4613d11f5d6857df24"
+    url = "https://github.com/JuliaBinaryWrappers/XZ_jll.jl/releases/download/XZ-v5.8.2+0/XZ.v5.8.2.aarch64-unknown-freebsd.tar.gz"
 [[XZ]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "27c6d8ffa0ccf485bfcc2129fe751c80c0b18433"
+git-tree-sha1 = "e5e4e228400a2ceae9b383233b1dab41c986a190"
 libc = "glibc"
 os = "linux"
 
     [[XZ.download]]
-    sha256 = "89bbbc9f1b2cad12162361fd6d49a75cc384221a6c931f94ba84aff7d648d3fc"
-    url = "https://github.com/JuliaBinaryWrappers/XZ_jll.jl/releases/download/XZ-v5.8.1+0/XZ.v5.8.1.armv6l-linux-gnueabihf.tar.gz"
+    sha256 = "8e74062d416e79e1315909935d635390589c3c845154d81c23790b7bc5229466"
+    url = "https://github.com/JuliaBinaryWrappers/XZ_jll.jl/releases/download/XZ-v5.8.2+0/XZ.v5.8.2.armv6l-linux-gnueabihf.tar.gz"
 [[XZ]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "7e90f2d2b543e4d1f83ce30da1faae38079a6403"
+git-tree-sha1 = "220db3dbab000a74f2ce0900177d495f03bcabf4"
 libc = "musl"
 os = "linux"
 
     [[XZ.download]]
-    sha256 = "49c4986451ad471097ea5eb67ca41da0f78ace809a6083aaa56343a4d11a5130"
-    url = "https://github.com/JuliaBinaryWrappers/XZ_jll.jl/releases/download/XZ-v5.8.1+0/XZ.v5.8.1.armv6l-linux-musleabihf.tar.gz"
+    sha256 = "6be0f2032294602360d89d4ec735c93274a58c4652f1980e85d121dc7129b937"
+    url = "https://github.com/JuliaBinaryWrappers/XZ_jll.jl/releases/download/XZ-v5.8.2+0/XZ.v5.8.2.armv6l-linux-musleabihf.tar.gz"
 [[XZ]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "6eadd9e2669e0d9fe09773972a3719d2e9d81d09"
+git-tree-sha1 = "1615dd3a59c9cebb9ec78ff7f159637ebb39964a"
 libc = "glibc"
 os = "linux"
 
     [[XZ.download]]
-    sha256 = "252ae3dd19168de2b6ba877ab21f6964ec3ed79e08d543714c832d9bf153b096"
-    url = "https://github.com/JuliaBinaryWrappers/XZ_jll.jl/releases/download/XZ-v5.8.1+0/XZ.v5.8.1.armv7l-linux-gnueabihf.tar.gz"
+    sha256 = "7b9f42e4b8d67bc9dad4a1cd16744f8f7d27eb2e2b6e06d6e2a4e5e90861f9fe"
+    url = "https://github.com/JuliaBinaryWrappers/XZ_jll.jl/releases/download/XZ-v5.8.2+0/XZ.v5.8.2.armv7l-linux-gnueabihf.tar.gz"
 [[XZ]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "2a98ba7981bb66bae3e71e9b9874786532299c14"
+git-tree-sha1 = "d939b179f4ecb49e473f83ff7688614e502f68aa"
 libc = "musl"
 os = "linux"
 
     [[XZ.download]]
-    sha256 = "21bcc624bc031e8609a9c4cfebb4c7b9ec27f0e8f9ade764030b49bffdec1356"
-    url = "https://github.com/JuliaBinaryWrappers/XZ_jll.jl/releases/download/XZ-v5.8.1+0/XZ.v5.8.1.armv7l-linux-musleabihf.tar.gz"
+    sha256 = "76609a9e7194d8f2054459a200c0b65583650aac14cfb70eb65b0a5c351f4750"
+    url = "https://github.com/JuliaBinaryWrappers/XZ_jll.jl/releases/download/XZ-v5.8.2+0/XZ.v5.8.2.armv7l-linux-musleabihf.tar.gz"
 [[XZ]]
 arch = "i686"
-git-tree-sha1 = "c326079bb22b87adbde590d5d78581662d77effe"
+git-tree-sha1 = "608d4f89afe0f24a345e04336adc68021538faa1"
 libc = "glibc"
 os = "linux"
 
     [[XZ.download]]
-    sha256 = "93766ac7ac184c889eff925b5dfc65641b13a4b19b8a7d9f2b767f5fdcc6c353"
-    url = "https://github.com/JuliaBinaryWrappers/XZ_jll.jl/releases/download/XZ-v5.8.1+0/XZ.v5.8.1.i686-linux-gnu.tar.gz"
+    sha256 = "68e35627ce5f9e89935e8e141d60b01b593a3d16e400eb1cff7d78288c01df4d"
+    url = "https://github.com/JuliaBinaryWrappers/XZ_jll.jl/releases/download/XZ-v5.8.2+0/XZ.v5.8.2.i686-linux-gnu.tar.gz"
 [[XZ]]
 arch = "i686"
-git-tree-sha1 = "c722ff486de7e5ce2bde6cce5cc4b546ec2ec296"
+git-tree-sha1 = "038459b8a0b3b6c1eaa4d110d4f9ffd617e67568"
 libc = "musl"
 os = "linux"
 
     [[XZ.download]]
-    sha256 = "d3084422a6bb4ef48b2c0e5ef4b2b03df462bbd1e1cec50d3e98a1893b2f3d19"
-    url = "https://github.com/JuliaBinaryWrappers/XZ_jll.jl/releases/download/XZ-v5.8.1+0/XZ.v5.8.1.i686-linux-musl.tar.gz"
+    sha256 = "a7b688b8c6780c576d52a8be1248ea1a65b1ec8f3232953e7d25ebdd5044e343"
+    url = "https://github.com/JuliaBinaryWrappers/XZ_jll.jl/releases/download/XZ-v5.8.2+0/XZ.v5.8.2.i686-linux-musl.tar.gz"
 [[XZ]]
 arch = "i686"
-git-tree-sha1 = "bb825d6701c96fa2c502f82a966533ec99b1dbb6"
+git-tree-sha1 = "f2cde20ee19c076c05d6353bd3e3d8f2a1026a7b"
 os = "windows"
 
     [[XZ.download]]
-    sha256 = "4cf1e081e5cad7548dcba20fa70298bee76291fc884d36b3db50764c9ef99a7b"
-    url = "https://github.com/JuliaBinaryWrappers/XZ_jll.jl/releases/download/XZ-v5.8.1+0/XZ.v5.8.1.i686-w64-mingw32.tar.gz"
+    sha256 = "cb795eef48dc98e0de3702443632af1aaa65261e1d8902d59c83a19baccb1048"
+    url = "https://github.com/JuliaBinaryWrappers/XZ_jll.jl/releases/download/XZ-v5.8.2+0/XZ.v5.8.2.i686-w64-mingw32.tar.gz"
 [[XZ]]
 arch = "powerpc64le"
-git-tree-sha1 = "538f0e086e56eafefcc1c3d106dbb3b1e0fab1ec"
+git-tree-sha1 = "2b43807ffe5ba9cc5cfec17ce4dd2e777ea4cc44"
 libc = "glibc"
 os = "linux"
 
     [[XZ.download]]
-    sha256 = "561a60607ac6443f92bd8c6c1618105aa93a3b69a50db041d1e3a20b1e83abd1"
-    url = "https://github.com/JuliaBinaryWrappers/XZ_jll.jl/releases/download/XZ-v5.8.1+0/XZ.v5.8.1.powerpc64le-linux-gnu.tar.gz"
+    sha256 = "433fe50f6d27a46d0afb8bdac4ac30e018d61a0ae44f3c6184abe39d90d5d40f"
+    url = "https://github.com/JuliaBinaryWrappers/XZ_jll.jl/releases/download/XZ-v5.8.2+0/XZ.v5.8.2.powerpc64le-linux-gnu.tar.gz"
 [[XZ]]
 arch = "riscv64"
-git-tree-sha1 = "a46e089ca97e04f62131d7160f8a475bc9788282"
+git-tree-sha1 = "613edd128249a8f1fd215c1616ef5c0fa525a715"
 libc = "glibc"
 os = "linux"
 
     [[XZ.download]]
-    sha256 = "f21f6f0d62d51590a8ffc78296c4ed823899c3928892b6e4ebb10ef24dd4eb43"
-    url = "https://github.com/JuliaBinaryWrappers/XZ_jll.jl/releases/download/XZ-v5.8.1+0/XZ.v5.8.1.riscv64-linux-gnu.tar.gz"
+    sha256 = "edadca9d8fb20f9b70dd37c8ad7e7817c21cec34a8f1edd83839f33648bb4ef8"
+    url = "https://github.com/JuliaBinaryWrappers/XZ_jll.jl/releases/download/XZ-v5.8.2+0/XZ.v5.8.2.riscv64-linux-gnu.tar.gz"
 [[XZ]]
 arch = "x86_64"
-git-tree-sha1 = "2272cc406735a17ca23d9405c04ca25c232c1e6c"
+git-tree-sha1 = "4e44fb2f5c5968963c31280e6a24905d61325eaf"
 os = "macos"
 
     [[XZ.download]]
-    sha256 = "e96303d9c3c3b4d65d4834ec57d6a757a93d2806f032350e1237ba5fd274bd8f"
-    url = "https://github.com/JuliaBinaryWrappers/XZ_jll.jl/releases/download/XZ-v5.8.1+0/XZ.v5.8.1.x86_64-apple-darwin.tar.gz"
+    sha256 = "89aa31464fbd913f8dfd4ddcb21eb7e71c930d429e38bc55ab079c9142d01549"
+    url = "https://github.com/JuliaBinaryWrappers/XZ_jll.jl/releases/download/XZ-v5.8.2+0/XZ.v5.8.2.x86_64-apple-darwin.tar.gz"
 [[XZ]]
 arch = "x86_64"
-git-tree-sha1 = "45a076ac2b0b5e528159c96142254106709ec982"
+git-tree-sha1 = "94e6987970aa0512ef684dcfc3ca69aca09e4107"
 libc = "glibc"
 os = "linux"
 
     [[XZ.download]]
-    sha256 = "58069b3ba40bbbae0dce076a1cfde82919a2907f9e7dee581b07efdb728f13ce"
-    url = "https://github.com/JuliaBinaryWrappers/XZ_jll.jl/releases/download/XZ-v5.8.1+0/XZ.v5.8.1.x86_64-linux-gnu.tar.gz"
+    sha256 = "eae126878817c032a2615b95bcf0c43a453f6ffc61a4755ca3894b7e1cd43044"
+    url = "https://github.com/JuliaBinaryWrappers/XZ_jll.jl/releases/download/XZ-v5.8.2+0/XZ.v5.8.2.x86_64-linux-gnu.tar.gz"
 [[XZ]]
 arch = "x86_64"
-git-tree-sha1 = "98844b301ff9e4a93f4c681d78696eba0e8ba6b8"
+git-tree-sha1 = "69ff51e7a00ad700d2b3816dde3759752bef2df9"
 libc = "musl"
 os = "linux"
 
     [[XZ.download]]
-    sha256 = "abdbb67f9c8551c17c40b6ed67cacf1dcbb6ae5262c274196bf8e4a40c8597fe"
-    url = "https://github.com/JuliaBinaryWrappers/XZ_jll.jl/releases/download/XZ-v5.8.1+0/XZ.v5.8.1.x86_64-linux-musl.tar.gz"
+    sha256 = "50b6ad7ee14c8a48bcc43fa43d49d7ae6ba2eb7374f8b5e329a15046d83bcccb"
+    url = "https://github.com/JuliaBinaryWrappers/XZ_jll.jl/releases/download/XZ-v5.8.2+0/XZ.v5.8.2.x86_64-linux-musl.tar.gz"
 [[XZ]]
 arch = "x86_64"
-git-tree-sha1 = "dc920f1d8d3b4ae2b795d11ad17622c4e87eae5b"
+git-tree-sha1 = "bc57a7f9d7d1373b59645783c1591d3b6ec282be"
 os = "freebsd"
 
     [[XZ.download]]
-    sha256 = "e7d113725e6d481af6d629cc04d7b730c3948fca65bc8d766be4659f4ab6c664"
-    url = "https://github.com/JuliaBinaryWrappers/XZ_jll.jl/releases/download/XZ-v5.8.1+0/XZ.v5.8.1.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "18eff6a40f68a3ff3a9df857febea830b085d0a9397f06ad9e9c127f3e39091f"
+    url = "https://github.com/JuliaBinaryWrappers/XZ_jll.jl/releases/download/XZ-v5.8.2+0/XZ.v5.8.2.x86_64-unknown-freebsd.tar.gz"
 [[XZ]]
 arch = "x86_64"
-git-tree-sha1 = "004a4c653a5364f66fd8d8c2fe9c81f3fb5ae8fe"
+git-tree-sha1 = "5cbfd1ac3716859ceb35724566b70d877b8b82f2"
 os = "windows"
 
     [[XZ.download]]
-    sha256 = "13aefb9bc61637721713f7fe9e955becec25f64045882cb2786ea457f9444989"
-    url = "https://github.com/JuliaBinaryWrappers/XZ_jll.jl/releases/download/XZ-v5.8.1+0/XZ.v5.8.1.x86_64-w64-mingw32.tar.gz"
+    sha256 = "d54a8a598362d0a59dbe4b55512c3a252b1f54badcae08faa36b6b4d034a3ea3"
+    url = "https://github.com/JuliaBinaryWrappers/XZ_jll.jl/releases/download/XZ-v5.8.2+0/XZ.v5.8.2.x86_64-w64-mingw32.tar.gz"
